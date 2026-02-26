@@ -4,7 +4,7 @@ This app is designed to provide parents with a simple snapshot of publicly avail
 ## Data Collection
 The app does not collect, store, transmit, or share any personal data from users of the app.
 
-#Use of Public Roblox Data
+## Use of Public Roblox Data
 The app retrieves limited information from publicly available endpoints provided by Roblox, such as:
 -Public profile details
 -Public friends lists
@@ -12,26 +12,26 @@ The app retrieves limited information from publicly available endpoints provided
 
 This information is not stored on external servers and is only used to display snapshots within the app.
 
-#No Tracking or Analytics
+## No Tracking or Analytics
 The app does not use:
 -Analytics services
 -Advertising frameworks
 -Tracking technologies
 -Third-party data brokers
 
-#Local Storage
+## Local Storage
 Any saved usernames or preferences are stored only on your device and never leave your device.
 
-#Support
+## Support
 If you contact us for support, your email address will only be used to respond to your request.
 
-#Children’s Privacy
+##Children’s Privacy
 The app does not require account creation and does not knowingly collect personal information from children. It only displays information that is already publicly accessible on Roblox.
 
-#Changes to This Policy
+## Changes to This Policy
 We may update this policy from time to time. Updates will be reflected by the “Last updated” date below.
 
-#Contact
+## Contact
 For questions about this policy, contact: arkhamgamesinc@gmail.com
 
 Last updated: February 2026
