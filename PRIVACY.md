@@ -25,7 +25,7 @@ Any saved usernames or preferences are stored only on your device and never leav
 ## Support
 If you contact us for support, your email address will only be used to respond to your request.
 
-##Children’s Privacy
+## Children’s Privacy
 The app does not require account creation and does not knowingly collect personal information from children. It only displays information that is already publicly accessible on Roblox.
 
 ## Changes to This Policy
