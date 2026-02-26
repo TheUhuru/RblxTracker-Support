@@ -1,7 +1,7 @@
 # Privacy Policy
 This app is designed to provide parents with a simple snapshot of publicly available account activity.
 
-#Data Collection
+## Data Collection
 The app does not collect, store, transmit, or share any personal data from users of the app.
 
 #Use of Public Roblox Data
