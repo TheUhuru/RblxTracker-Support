@@ -1,4 +1,4 @@
-##Privacy Policy
+# Privacy Policy
 This app is designed to provide parents with a simple snapshot of publicly available account activity.
 
 #Data Collection
