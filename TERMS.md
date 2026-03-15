@@ -1,6 +1,6 @@
 # Terms of Use (EULA)
 
-**Effective date:** February 2026  
+**Effective date:** March 2026  
 
 These Terms of Use govern your use of the app and any premium subscription features.
 
