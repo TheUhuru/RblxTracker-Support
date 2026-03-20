@@ -1,7 +1,7 @@
-# RblxTracker Support
+# RealmAware Support
 
 Privacy Policy:
-https://theuhuru.github.io/RblxTracker-Support/PRIVACY
+https://theuhuru.github.io/RealmAware-Support/PRIVACY
 
 Terms of Use:
-https://theuhuru.github.io/RblxTracker-Support/TERMS
+https://theuhuru.github.io/RealmAware-Support/TERMS
